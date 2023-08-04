@@ -1,3 +1,4 @@
+package Produtos;
 public class Produto {
     private double preco;
     private int quantidade;
